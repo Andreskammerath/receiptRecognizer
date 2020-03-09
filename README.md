@@ -1,0 +1,2 @@
+# Receipt Recognizer  
+This is a project very similar to one that I did for a client. The project consists of training a neural network to discriminate receipts from other things. In the original work for the client I had to train a neural network to discriminate particular documents and the dataset was provided by the client. But in this case we will use receipts and it is within the scope of the project to get a receipt dataset.
